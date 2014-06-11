@@ -1,0 +1,25 @@
+{
+    "name": "JavaCommunity",
+    "version": "0.0.1",
+    "description": "This is a simple web application to ilustrate how Karma & Jasmine work together",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/julioarmandof/JFA.git"
+    },
+    "author": "Julio Fernandez",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/julioarmandof/JFA/issues"
+    },
+    "homepage": "https://github.com/julioarmandof/JFA",
+    "dependencies": {
+        "karma": "*",
+        "karma-jasmine": "*",
+        "jasmine-jquery": "*",
+        "karma-coverage": "*",
+        "karma-phantomjs-launcher": "*",
+        "karma-safari-launcher": "*",
+        "karma-chrome-launcher": "*",
+        "karma-firefox-launcher": "*"
+    }
+}

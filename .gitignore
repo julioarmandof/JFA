@@ -1,0 +1,7 @@
+.idea/
+*.iml
+target/
+src/test/webapp/js/node_modules/
+src/test/webapp/js/npm_debug.log
+src/test/webapp/js/coverage/
+.DS_Store
