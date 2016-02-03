@@ -16,12 +16,12 @@ module.exports = function (config) {
         // list of files / patterns to load in the browser
         files: [
             'lib/**/*.js',
-            'node_modules/jasmine-jquery/lib/jasmine-jquery.js',
 
             '../../../main/webapp/js/jquery/jquery-1.11.1.min.js',
             '../../../main/webapp/js/com/javacommunity/features/ForgotPassword.js',
 
             'com/**/*Spec.js',
+
             {
                 pattern: 'fixtures/*.html',
                 watched: false,

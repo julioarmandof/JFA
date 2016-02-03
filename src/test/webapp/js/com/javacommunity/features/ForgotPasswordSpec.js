@@ -3,7 +3,7 @@ describe("Forgot Password", function () {
     jasmine.getFixtures().fixturesPath = 'base/fixtures';
 
     beforeEach(function () {
-        loadFixtures('ForgotPassword.html');
+        loadFixtures('forgotPassword.html');
     });
 
     it("should bind click / submit event to CTA", function () {
